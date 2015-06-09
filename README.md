@@ -28,7 +28,7 @@ TypeError: Cannot read property 'text' of undefined
 
 
 
-Switching to Istanbul 0.3.14 produces a new error:
+Switching to Istanbul 0.3.14 (and 0.3.13) produces a new error:
 ```
 DEBUG [coverage]: Writing coverage to /home/notnarb/Workspace/karma-coverage-157/coverages/Firefox 38.0.0 (Ubuntu 0.0.0)
 ERROR [coverage]: [TypeError: Cannot set property 'covered' of undefined]
