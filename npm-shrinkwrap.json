@@ -859,9 +859,9 @@
       "resolved": "https://registry.npmjs.org/browserify-istanbul/-/browserify-istanbul-0.2.1.tgz",
       "dependencies": {
         "istanbul": {
-          "version": "0.3.15",
-          "from": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.15.tgz",
-          "resolved": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.15.tgz",
+          "version": "0.3.14",
+          "from": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.14.tgz",
+          "resolved": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.14.tgz",
           "dependencies": {
             "esprima": {
               "version": "2.1.0",
@@ -4925,9 +4925,9 @@
       "resolved": "https://registry.npmjs.org/karma-coverage/-/karma-coverage-0.4.1.tgz",
       "dependencies": {
         "istanbul": {
-          "version": "0.3.15",
-          "from": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.15.tgz",
-          "resolved": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.15.tgz",
+          "version": "0.3.14",
+          "from": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.14.tgz",
+          "resolved": "https://registry.npmjs.org/istanbul/-/istanbul-0.3.14.tgz",
           "dependencies": {
             "esprima": {
               "version": "2.1.0",
