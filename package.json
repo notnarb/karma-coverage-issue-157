@@ -1,0 +1,21 @@
+{
+  "main": "js/main.js",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "bluebird": "^1.2.4",
+    "browserify": "^10.2.1",
+    "browserify-istanbul": "^0.2.1",
+    "chai": "^2.3.0",
+	"handlebars": "^2.0.0",
+    "hbsfy": "~2.2.1",
+    "jshint": "~2.6.0",
+    "karma": "^0.12.35",
+    "karma-browserify": "^4.2.1",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-coverage": "^0.4.0",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.2.5"
+  }
+}
